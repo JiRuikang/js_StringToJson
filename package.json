@@ -1,0 +1,25 @@
+{
+  "name": "stringtojson",
+  "version": "1.0.0",
+  "description": "make string type into json type",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JiRuikang/js_StringToJson.git"
+  },
+  "keywords": [
+    "stringToJson"
+  ],
+  "author": "ruikang.ji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JiRuikang/js_StringToJson/issues"
+  },
+  "homepage": "https://github.com/JiRuikang/js_StringToJson#readme",
+  "devDependencies": {
+    "rollup": "^0.51.1"
+  }
+}
